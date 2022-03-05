@@ -1,0 +1,6 @@
+code: ent-ecr
+description: bundle to controlling entando component repository
+components:
+  widgets:
+    - ui/widgets/widgets-dir/ent-ecr-widget/ent-ecr-widget-descriptor.yaml
+
